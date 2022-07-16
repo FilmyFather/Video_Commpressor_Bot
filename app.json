@@ -1,6 +1,6 @@
 {
-  "name": "VideoCompressBot",
-  "description": "Telegram's best Video Compress Bot",
+  "name": "FilmyFather_VideoCompressor_Bot",
+  "description": "FilmyFather Telegram's best Video Compress Bot",
   "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "success_url": "https://t.me/yuvi_4502",
+  "website": "https://t.me/FilmyFather_BotList",
+  "repository": "https://github.com/FilmyFather/Video_Commpressor_Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -34,17 +34,17 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "7588344",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "6ade175bcf8ea4981e3153ef48fe07f5",
       "required": true
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "715779594",
+      "value": "1564152071",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
@@ -57,17 +57,17 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username. Without `@` before Username!",
-      "value": "",
+      "value": "Video_Compressz_robot",
       "required": true
     },
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
-      "value": "",
+      "value": "-1001519466788",
       "required": true
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
-      "value": "",
+      "value": "-1001789780845",
       "required": false
     }
   },
